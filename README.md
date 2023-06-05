@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishit Singh</h1>
-<h3 align="center"> Analytics Engineer at <a href="https://infinitylearn.com/">Infinity Learn</a> | Building Data Transformation Pipelines | Working and deploying ML models</h3>
+<h3 align="center"> Data Scientist at <a href="https://infinitylearn.com/">Infinity Learn</a> | Building Data Transformation Pipelines | Working and deploying ML models</h3>
 
 # 💫 About Me:
 Extremely Skilled in SQL, Python, Microsoft Excel, Management, and Teamwork. Strong information technology professional with a Bachelor of Technology - Conputer Science with specialization in Data Science from Chitkara University. <br>

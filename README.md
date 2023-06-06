@@ -2,7 +2,7 @@
 <h3 align="center"> Data Scientist at <a href="https://infinitylearn.com/">Infinity Learn</a> | Building Data Transformation Pipelines | Working and deploying ML models</h3>
 
 # 💫 About Me:
-Extremely Skilled in SQL, Python, Microsoft Excel, Management, and Teamwork. Strong information technology professional with a Bachelor of Technology - Conputer Science with specialization in Data Science from Chitkara University. <br>
+Extremely Skilled in SQL, Python, Microsoft Excel, Management, and Teamwork. Strong information technology professional with a Bachelor of Technology - Computer Science with specialization in Data Science from Chitkara University. <br>
 Analytical, yet outcome-oriented, with a sharp focus on ensuring a high-quality implementation of the strategy.<br><br>
 🌱 I’m currently learning: About Data Pipepines, DataBases Engineering and Big Data Tools like Pyspark, Kafka etc.
 💬 Ask me about: Computer Vision (GANs, Object Detection, Face Recognition), and Information Extraction from Text and Image Documents (NLP + CV)<br><br>

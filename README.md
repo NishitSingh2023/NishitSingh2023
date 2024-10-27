@@ -2,12 +2,12 @@
 <h3 align="center"> Data Engineer at <a href="https://infinitylearn.com/">Infinity Learn</a> | Building Data Transformation Pipelines | Working and deploying ML models</h3>
 
 # 💫 About Me:
-Extremely Skilled in SQL, Python, Microsoft Excel, Management, and Teamwork. Strong information technology professional with a Bachelor of Technology - Computer Science with specialization in Data Science from Chitkara University. <br>
-Analytical, yet outcome-oriented, with a sharp focus on ensuring a high-quality implementation of the strategy.<br><br>
+Extremely Skilled in SQL, Python, Microsoft Excel, Management, and Teamwork. Strong information technology professional with a Bachelor of Technology - Computer Science specialization in Data Science from Chitkara University. <br>
+Analytical, yet outcome-oriented, with a sharp focus on ensuring a high-quality strategy implementation.<br><br>
 🌱 I’m currently learning: About Data Pipelines, DataBases Engineering and Big Data Tools like Pyspark, Kafka etc. <br><br>
 💬 Ask me about: Computer Vision mostly CNNS, GANs, Object Recognition, Face Recognition, even RNNS and Reinforcement Learning <br><br>
 📫 You can reach me at ns2023@gmail.com<br><br>
-⚡ Fun fact: I love playing Video Games and watching Anime in free time.
+⚡ Fun fact: I love playing Video Games and watching Anime in my free time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishitsingh2023/)
@@ -26,6 +26,8 @@ Analytical, yet outcome-oriented, with a sharp focus on ensuring a high-quality 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%23316192.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-%23150458.svg?style=for-the-badge&logo=ETL&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 # 📊 GitHub Stats:

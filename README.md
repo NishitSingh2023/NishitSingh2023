@@ -6,7 +6,7 @@ Extremely Skilled in SQL, Python, Microsoft Excel, Management, and Teamwork. Str
 Analytical, yet outcome-oriented, with a sharp focus on ensuring a high-quality strategy implementation.<br><br>
 🌱 I’m currently learning: About Data Pipelines, DataBases Engineering and Big Data Tools like Pyspark, Kafka etc. <br><br>
 💬 Ask me about: Computer Vision mostly CNNS, GANs, Object Recognition, Face Recognition, even RNNS and Reinforcement Learning <br><br>
-📫 You can reach me at ns2023@gmail.com<br><br>
+📫 You can reach me at nishit.singh2023@gmail.com<br><br>
 ⚡ Fun fact: I love playing Video Games in my free time.
 
 ## 🌐 Socials:
